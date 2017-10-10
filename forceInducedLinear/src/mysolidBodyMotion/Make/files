@@ -1,0 +1,5 @@
+mysolidBodyMotionFunction/mysolidBodyMotionFunction.C
+mysolidBodyMotionFunction/mynewSolidBodyMotionFunction.C
+forceInducedLinear/forceInducedLinear.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmysolidBodyMotion

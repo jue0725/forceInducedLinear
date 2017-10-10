@@ -1,0 +1,4 @@
+SOURCE = \
+mysolidBodyMotionFunction/mysolidBodyMotionFunction.C\
+mysolidBodyMotionFunction/mynewSolidBodyMotionFunction.C\
+forceInducedLinear/forceInducedLinear.C

@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+mysolidBodyMotionFunction/mysolidBodyMotionFunction.dep\
+mysolidBodyMotionFunction/mynewSolidBodyMotionFunction.dep\
+forceInducedLinear/forceInducedLinear.dep

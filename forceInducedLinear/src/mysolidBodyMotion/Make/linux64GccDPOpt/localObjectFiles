@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+mysolidBodyMotionFunction.o\
+mynewSolidBodyMotionFunction.o\
+forceInducedLinear.o

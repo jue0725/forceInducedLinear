@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/mysolidBodyMotionFunction.o\
+$(OBJECTS_DIR)/mynewSolidBodyMotionFunction.o\
+$(OBJECTS_DIR)/forceInducedLinear.o
